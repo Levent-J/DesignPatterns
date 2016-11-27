@@ -7,7 +7,7 @@ public class Test {
     public static void main(String[] args){
         DevTechFrontier devTechFrontier = new DevTechFrontier();
 
-        Coder coder1 = new Coder("李文靖");
+        Coder coder1 = new Coder("\"李文靖\"");
         Coder coder2 = new Coder("刘庚");
         Coder coder3 = new Coder("刘一兰");
 
